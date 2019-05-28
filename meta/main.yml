@@ -2,7 +2,7 @@ dependencies: []
 galaxy_info:
   author: your name
   company: your company (optional)
-  description: ybruebnc / orion
+  description: ulcktvgo / orion
   galaxy_tags: []
   license: license (GPLv2, CC-BY, etc)
   min_ansible_version: 2.4
