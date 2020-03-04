@@ -36,3 +36,12 @@ Author Information
 ------------------
 
 An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+
+Table Example
+-------------
+
+|ID#|Name  |Color|
+|---|------|-----|
+|1  |Apple |Red  |
+|2  |Orange|Orange|
+|3  |Banana|yellow|
